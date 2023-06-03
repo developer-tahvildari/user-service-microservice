@@ -1,0 +1,40 @@
+# Compiled class files
+/target/
+
+# Dependency directories
+/.idea/
+/.mvn/
+/.gradle/
+/.classpath
+/.project
+/.settings/
+
+# Maven files
+mvnw
+mvnw.cmd
+.settings/
+
+# IDE files
+*.iml
+*.ipr
+*.iws
+
+# Logs
+logs/
+*.log
+
+# Build output
+build/
+out/
+
+# IDE-specific files
+.idea/
+*.iml
+*.ipr
+*.iws
+.DS_Store
+.vscode/
+
+# Operating System files
+Thumbs.db
+.DS_Store
